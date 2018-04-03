@@ -2,12 +2,12 @@
 Movie trailer shows as we click on the poster of a particular movie  inside the web page
 
 # work-flow
-Download the code
-Extract compressed file
-Open terminal and cd to the extracted folder
-Run the application, python entertainment_center.py
-This will open up a page in your web browser
-Click on the Movie Tile to see youtube trailer
+* Download the code
+* Extract compressed file
+* Open terminal and cd to the extracted folder
+* Run the application, python entertainment_center.py
+* This will open up a page in your web browser
+* Click on the Movie Tile to see youtube trailer
 
 # Content 
 Excluding this README.md file there are three python files:
